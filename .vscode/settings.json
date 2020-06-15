@@ -1,0 +1,7 @@
+{
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.renderWhitespace": "all",
+    "editor.insertSpaces": false,
+    "[json]": {
+    }
+}
