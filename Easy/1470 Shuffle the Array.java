@@ -26,7 +26,7 @@ Concepts Learned
 
 */
 
-class Solution {
+class Solution1470 {
 
     public static void main(String args[]) {
         int[] numbers;
