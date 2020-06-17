@@ -1,3 +1,4 @@
+package Easy.Arrays;
 /*
 1252. Cells with Odd Values in a Matrix
 Easy
@@ -41,16 +42,16 @@ read problem until it is understood
 
 
 class Solution1252 {
-	public static void main(String args[]) {
-		int n = 2;
-		int m = 3;
-		int[][] numbers = new int[][] { { 0, 1 }, { 1, 1 } };
+	public static void main(final String args[]) {
+		final int n = 2;
+		final int m = 3;
+		final int[][] numbers = new int[][] { { 0, 1 }, { 1, 1 } };
 		oddCells(n, m, numbers);
 	}
 
-	public static int oddCells(int n, int m, int[][] indices) {
+	public static int oddCells(final int n, final int m, final int[][] indices) {
 		int oddNumCount = 0;
-		int[][] answer2Darr = new int[n][m];
+		final int[][] answer2Darr = new int[n][m];
 
 		for (int i = 0; i < indices.length; i++) {
 			for (int j = 0; j < m; j++) {

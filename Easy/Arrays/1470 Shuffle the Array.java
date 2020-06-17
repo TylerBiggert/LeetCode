@@ -1,3 +1,4 @@
+package Easy.Arrays;
 /*
 1470. Shuffle the Array
 Easy
