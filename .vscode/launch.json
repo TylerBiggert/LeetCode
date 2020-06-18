@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Solution1108",
+            "request": "launch",
+            "mainClass": "Solution1108",
+            "projectName": "LeetCode_69b5860e"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SolutionvalidIPAddress",
             "request": "launch",
             "mainClass": "SolutionvalidIPAddress",
@@ -100,6 +107,13 @@
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
-        }
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution1108",
+            "request": "launch",
+            "mainClass": "Solution1108",
+            "projectName": "LeetCode_69b5860e"
+        },
     ]
 }
