@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - numOfEvenDigitNumbs",
+            "request": "launch",
+            "mainClass": "numOfEvenDigitNumbs",
+            "projectName": "LeetCode_69b5860e"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Solution1108",
             "request": "launch",
             "mainClass": "Solution1108",
@@ -114,6 +121,6 @@
             "request": "launch",
             "mainClass": "Solution1108",
             "projectName": "LeetCode_69b5860e"
-        },
+        }
     ]
 }
